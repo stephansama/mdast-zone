@@ -1,5 +1,5 @@
 {
-  "name": "mdast-zone",
+  "name": "@stephansama/mdast-zone",
   "version": "6.1.0",
   "description": "mdast utility to treat HTML comments as ranges or markers",
   "license": "MIT",
@@ -16,6 +16,9 @@
     "range",
     "marker"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "syntax-tree/mdast-zone",
   "bugs": "https://github.com/syntax-tree/mdast-zone/issues",
   "funding": {

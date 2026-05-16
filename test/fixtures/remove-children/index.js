@@ -2,7 +2,7 @@
  * @import {Root} from 'mdast'
  */
 
-import {zone} from 'mdast-zone'
+import {zone} from '@stephansama/mdast-zone'
 
 /**
  * @param {Root} tree
